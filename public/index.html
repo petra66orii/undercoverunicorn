@@ -14,7 +14,12 @@
     <title>Home | Undercover Unicorn</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
-    <link rel="stylesheet" href="http://localhost:1313/undercoverunicorn/css/theme-override.css">
+    <link rel="stylesheet" href="/undercoverunicorn/css/theme-override.css">
+    
+    <!-- Include custom CSS files -->
+    {{ range .Site.Params.custom_css }}
+    <link rel="stylesheet" href="{{ . | relURL }}">
+    {{ end }}
     
   </head>
 
@@ -83,6 +88,12 @@ alt="A foxy face"></p>
      </li>
      
    </ul>
+   
+   <!-- Include images -->
+   {{ range .Site.Params.images }}
+   <img src="{{ . | relURL }}" alt="Image">
+   {{ end }}
+   
 </div>
     <footer>
       
