@@ -38,6 +38,7 @@ name = "Subscribe"
 url = "/index.xml"
 
 [params]
-custom_css = ["css/style.css"]
+custom_css = ["css/style.css", "css/fonts.css", "css/theme-override.css"]
 description = "A simple, minimal blog for those who love text."
 footer = "Open-Source | [Github](https://github.com/goodroot/hugo-classic) | [Keybase](https://keybase.io/goodroot)"
+images = ["images/apple-touch-icon.png", "images/favicon-32x32.png", "images/favicon-16x16.png", "images/site.webmanifest", "images/grayf0x.jpg", "images/partywizard.gif"]
