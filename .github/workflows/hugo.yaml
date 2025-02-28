@@ -37,6 +37,8 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Clear Hugo cache
+        run: rm -rf ${{ runner.temp }}/hugo_cache
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
@@ -52,8 +54,6 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Copy static files
-        run: cp -r static/* public/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
