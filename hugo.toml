@@ -1,9 +1,10 @@
-baseurl = "/"
+baseurl = "https://petra66orii.github.io/undercoverunicorn/"
 enableEmoji = true
-footnotereturnlinkcontents = "↩"
-languageCode = "en-us"
 theme = "hugo-classic"
 title = "Undercover Unicorn"
+footnotereturnlinkcontents = "↩"
+languageCode = "en-us"
+
 
 [markup.goldmark.renderer]
 unsafe = true
