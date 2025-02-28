@@ -54,6 +54,10 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Verify Static Files
+        run: find static -type f
+      - name: Check Public Folder
+        run: find public -type f
       - name: Print generated HTML files
         run: cat ./public/index.html
       - name: Upload artifact
