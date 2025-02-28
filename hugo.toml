@@ -1,11 +1,11 @@
 baseurl = "https://petra66orii.github.io/undercoverunicorn/"
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
-googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 languageCode = "en-us"
 theme = "hugo-classic"
 title = "Undercover Unicorn"
+paginate = 5
 
 [markup.goldmark.renderer]
 unsafe = true
