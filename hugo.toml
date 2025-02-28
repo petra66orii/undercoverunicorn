@@ -1,7 +1,6 @@
 baseurl = "https://petra66orii.github.io/undercoverunicorn/"
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
-ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 languageCode = "en-us"
 theme = "hugo-classic"
 title = "Undercover Unicorn"
