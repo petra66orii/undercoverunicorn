@@ -5,6 +5,15 @@ title = "Undercover Unicorn"
 footnotereturnlinkcontents = "↩"
 languageCode = "en-us"
 
+[module]
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+
+  [[module.mounts]]
+    source = "static"
+    target = "assets"
+
 
 [markup.goldmark.renderer]
 unsafe = true
