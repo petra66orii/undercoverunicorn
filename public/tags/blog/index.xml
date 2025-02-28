@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Classic</title>
+    <link>https://example.com/tags/blog/</link>
+    <description>Recent content in Blog on Classic</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content Matters</title>
+      <link>https://example.com/posts/content-matters/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/posts/content-matters/</guid>
+      <description>&lt;h1 id=&#34;content-matters&#34;&gt;Content Matters&lt;/h1&gt;&#xA;&lt;p&gt;When it comes to SEO, keywords aren&amp;rsquo;t everything. The content of the website is crucial for the search engine to determine whether it will rank high or not.&lt;/p&gt;&#xA;&lt;h2 id=&#34;content-is-king&#34;&gt;Content is King&lt;/h2&gt;&#xA;&lt;p&gt;The more useful, well informed and trustworthy your web page content is, the higher it will rank in search engines. Great content is what helps your rankings most. Keywords will help users find you, but the content of your web pages is what will keep them on your site once they get there. &lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
