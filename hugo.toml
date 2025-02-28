@@ -5,7 +5,6 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 languageCode = "en-us"
 theme = "hugo-classic"
 title = "Undercover Unicorn"
-paginate = 5
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -39,6 +38,6 @@ name = "Subscribe"
 url = "/index.xml"
 
 [params]
-custom_css = ["css/theme-override.css"]
+custom_css = ["css/style.css"]
 description = "A simple, minimal blog for those who love text."
 footer = "Open-Source | [Github](https://github.com/goodroot/hugo-classic) | [Keybase](https://keybase.io/goodroot)"
