@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Classic</title>
-    <link>https://example.com/tags/</link>
+    <link>http://localhost:1313/undercoverunicorn/tags/</link>
     <description>Recent content in Tags on Classic</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/undercoverunicorn/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>https://example.com/tags/blog/</link>
+      <link>http://localhost:1313/undercoverunicorn/tags/blog/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/blog/</guid>
+      <guid>http://localhost:1313/undercoverunicorn/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Coding</title>
-      <link>https://example.com/tags/coding/</link>
+      <link>http://localhost:1313/undercoverunicorn/tags/coding/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/coding/</guid>
+      <guid>http://localhost:1313/undercoverunicorn/tags/coding/</guid>
       <description></description>
     </item>
     <item>
       <title>E-Commerce</title>
-      <link>https://example.com/tags/e-commerce/</link>
+      <link>http://localhost:1313/undercoverunicorn/tags/e-commerce/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/e-commerce/</guid>
+      <guid>http://localhost:1313/undercoverunicorn/tags/e-commerce/</guid>
       <description></description>
     </item>
     <item>
       <title>Marketing</title>
-      <link>https://example.com/tags/marketing/</link>
+      <link>http://localhost:1313/undercoverunicorn/tags/marketing/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/marketing/</guid>
+      <guid>http://localhost:1313/undercoverunicorn/tags/marketing/</guid>
       <description></description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://example.com/tags/projects/</link>
+      <link>http://localhost:1313/undercoverunicorn/tags/projects/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/projects/</guid>
+      <guid>http://localhost:1313/undercoverunicorn/tags/projects/</guid>
       <description></description>
     </item>
     <item>
       <title>SEO</title>
-      <link>https://example.com/tags/seo/</link>
+      <link>http://localhost:1313/undercoverunicorn/tags/seo/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/seo/</guid>
+      <guid>http://localhost:1313/undercoverunicorn/tags/seo/</guid>
       <description></description>
     </item>
     <item>
       <title>Software Development</title>
-      <link>https://example.com/tags/software-development/</link>
+      <link>http://localhost:1313/undercoverunicorn/tags/software-development/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/software-development/</guid>
+      <guid>http://localhost:1313/undercoverunicorn/tags/software-development/</guid>
       <description></description>
     </item>
   </channel>

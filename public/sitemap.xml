@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/tags/blog/</loc>
+    <loc>http://localhost:1313/undercoverunicorn/tags/blog/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/coding/</loc>
+    <loc>http://localhost:1313/undercoverunicorn/tags/coding/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/content-matters/</loc>
+    <loc>http://localhost:1313/undercoverunicorn/posts/content-matters/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/e-commerce/</loc>
+    <loc>http://localhost:1313/undercoverunicorn/tags/e-commerce/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>http://localhost:1313/undercoverunicorn/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>http://localhost:1313/undercoverunicorn/posts/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/marketing/</loc>
+    <loc>http://localhost:1313/undercoverunicorn/tags/marketing/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/projects/</loc>
+    <loc>http://localhost:1313/undercoverunicorn/tags/projects/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/seo/</loc>
+    <loc>http://localhost:1313/undercoverunicorn/tags/seo/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>http://localhost:1313/undercoverunicorn/tags/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/seo-implementation-basics/</loc>
+    <loc>http://localhost:1313/undercoverunicorn/posts/seo-implementation-basics/</loc>
     <lastmod>2025-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/software-development/</loc>
+    <loc>http://localhost:1313/undercoverunicorn/tags/software-development/</loc>
     <lastmod>2025-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>http://localhost:1313/undercoverunicorn/categories/</loc>
   </url>
 </urlset>
