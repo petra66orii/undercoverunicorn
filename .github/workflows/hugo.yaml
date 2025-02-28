@@ -24,7 +24,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.145.0
+      HUGO_VERSION: 0.145.0-666444f0a52132f9fec9f71cf25b441cc6a4f355
     steps:
       - name: Install Hugo CLI
         run: |
@@ -52,6 +52,8 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Copy static files
+        run: cp -r static/* public/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
