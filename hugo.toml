@@ -1,10 +1,13 @@
 baseurl = "https://petra66orii.github.io/undercoverunicorn/"
+relativeURLs = true
 enableEmoji = true
 theme = "hugo-classic"
 title = "Undercover Unicorn"
 footnotereturnlinkcontents = "↩"
 languageCode = "en-us"
 
+[pagination]
+  paperSize = 5
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -29,14 +32,26 @@ tabWidth = 4
 [permalinks]
 post = "/post/:year/:month/:day/:slug/"
 
-[[menu.main]]
-name = "Categories"
-url = "/categories/"
-weight = 1
-[[menu.main]]
-name = "Tags"
-url = "/tags/"
-weight = 2
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/undercoverunicorn/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 1
+  [[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 2
 
 
 [params]

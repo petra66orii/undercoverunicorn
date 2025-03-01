@@ -1,19 +1,20 @@
 ---
 title: SEO Implementation Basics
-date: "2025-02-20"
+date: 2025-02-20T19:07:00Z
 draft: false
 tags:
-     - coding
-     - software development
-     - SEO
-     - e-commerce
-     - marketing
+  - coding
+  - software
+  - development
+  - SEO
+  - e-commerce
+  - marketing
+categories: Marketing
 ---
 
 # SEO Implementation Basics
 
 SEO is short for Search Engine Optimization. In this article I will lay out the basics of SEO, giving you the tools necessary to boost up your website/blog in the Google Search engine. Usually businesses and entrepreneurs hire someone to do SEO research for them, but maybe you don't have the money necessary to hire someone or you just want to learn SEO and don't know where to start. If you find yourself in one of these situations, then this article is for you.
-
 ## Keyword Research
 
 Keyword research is the process of finding and analyzing search terms that people enter into search engines, with the goal of using that data for SEO or general web
@@ -23,7 +24,7 @@ If you have a project in mind, look up the keywords in Google Search to see if t
 
 Also, there are multiple websites that will check how high these words are ranking. For example, [Word Tracker](https://wordtracker.com) allows you to use a limited version of their site, where you get 12 free searches. 
 
-> Tip!
+> [!tip]
 > You can get 12 more by accessing their site in incognito mode.  
 
 Keyword research can uncover queries to target, the popularity of these queries, their ranking difficulty, and so on.

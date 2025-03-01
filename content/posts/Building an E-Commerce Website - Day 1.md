@@ -1,6 +1,6 @@
 ---
 title: Building an E-Commerce Website - Day 1
-date: "2025-02-26"
+date: 2025-02-26T19:07:00Z
 draft: true
 tags:
   - blog
@@ -9,6 +9,7 @@ tags:
   - e-commerce
   - SEO
   - projects
+categories: E-Commerce Website Series
 ---
 
 
