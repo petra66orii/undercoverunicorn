@@ -150,7 +150,6 @@ The final steps for working with a sitemap and robots files can only be impleme
 A sitemap should be registered with Google. You can do this in the Google Search console. And you can also test your robots.txt file for errors.
 
 
-> [!Important]
 > #### Tips
 > 
 > - Research other sites that already meet the needs your users have, find examples of how they accomplish that.

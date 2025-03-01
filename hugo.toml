@@ -37,12 +37,10 @@ weight = 1
 name = "Tags"
 url = "/tags/"
 weight = 2
-[[menu.feed]]
-name = "Subscribe"
-url = "/index.xml"
+
 
 [params]
 custom_css = ["css/style.css", "css/fonts.css", "css/theme-override.css"]
 staticDir = ["static"]
 description = "A simple, minimal blog for those who love text."
-footer = "Open-Source | [Github](https://github.com/goodroot/hugo-classic) | [Keybase](https://keybase.io/goodroot)"
+footer = "[Github](https://github.com/petra66orii) | [LinkedIn](https://www.linkedin.com/in/petra-bot-a552601a4/)"
