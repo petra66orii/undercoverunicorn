@@ -11,9 +11,11 @@ description: "The personal writings and expressions of Grayfox, otherwise known 
 
 ### :purple_heart: :earth_africa: :purple_heart:
 
-Born in [The Abyss](https://en.wikipedia.org/wiki/Edmonton), **Grayfox** - also known as Zerkle Snorp - has spent over two decades fiddling with things on the Internet. Today he does nothing, so stop asking.
+Welcome to my little corner of the Internet! You'll find articles regarding software developent, web marketing, the meaning of Life (that escalated quickly) and much more! I love writing about whatever goes through my head. 
 
-Their greatest joys are darkness and its quietudes.
+Also an aspiring software developer, determined to become one of the best ones out there!
+
+Hope you have a lovely time learning new things :purple_heart:
 
 <img src="/undercoverunicorn/images/partywizard.gif">
 
