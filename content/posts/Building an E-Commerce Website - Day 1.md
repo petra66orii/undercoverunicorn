@@ -9,7 +9,8 @@ tags:
   - e-commerce
   - SEO
   - projects
-categories: E-Commerce Website Series
+categories: 
+  - E-Commerce Website Series
 ---
 
 

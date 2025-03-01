@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Classic</title>
-    <link>http://localhost:1313/undercoverunicorn/categories/</link>
-    <description>Recent content in Categories on Classic</description>
+    <title>Categories on Undercover Unicorn</title>
+    <link>https://petra66orii.github.io/undercoverunicorn/categories/</link>
+    <description>Recent content in Categories on Undercover Unicorn</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/undercoverunicorn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Feb 2025 16:33:00 +0000</lastBuildDate>
+    <atom:link href="https://petra66orii.github.io/undercoverunicorn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marketing</title>
+      <link>https://petra66orii.github.io/undercoverunicorn/categories/marketing/</link>
+      <pubDate>Fri, 28 Feb 2025 16:33:00 +0000</pubDate>
+      <guid>https://petra66orii.github.io/undercoverunicorn/categories/marketing/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

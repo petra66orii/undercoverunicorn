@@ -1,60 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Classic</title>
-    <link>http://localhost:1313/undercoverunicorn/tags/</link>
-    <description>Recent content in Tags on Classic</description>
+    <title>Tags on Undercover Unicorn</title>
+    <link>https://petra66orii.github.io/undercoverunicorn/tags/</link>
+    <description>Recent content in Tags on Undercover Unicorn</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/undercoverunicorn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Feb 2025 16:33:00 +0000</lastBuildDate>
+    <atom:link href="https://petra66orii.github.io/undercoverunicorn/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/undercoverunicorn/tags/blog/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/undercoverunicorn/tags/blog/</guid>
+      <link>https://petra66orii.github.io/undercoverunicorn/tags/blog/</link>
+      <pubDate>Fri, 28 Feb 2025 16:33:00 +0000</pubDate>
+      <guid>https://petra66orii.github.io/undercoverunicorn/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Coding</title>
-      <link>http://localhost:1313/undercoverunicorn/tags/coding/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/undercoverunicorn/tags/coding/</guid>
+      <link>https://petra66orii.github.io/undercoverunicorn/tags/coding/</link>
+      <pubDate>Fri, 28 Feb 2025 16:33:00 +0000</pubDate>
+      <guid>https://petra66orii.github.io/undercoverunicorn/tags/coding/</guid>
       <description></description>
     </item>
     <item>
       <title>E-Commerce</title>
-      <link>http://localhost:1313/undercoverunicorn/tags/e-commerce/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/undercoverunicorn/tags/e-commerce/</guid>
+      <link>https://petra66orii.github.io/undercoverunicorn/tags/e-commerce/</link>
+      <pubDate>Fri, 28 Feb 2025 16:33:00 +0000</pubDate>
+      <guid>https://petra66orii.github.io/undercoverunicorn/tags/e-commerce/</guid>
       <description></description>
     </item>
     <item>
       <title>Marketing</title>
-      <link>http://localhost:1313/undercoverunicorn/tags/marketing/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/undercoverunicorn/tags/marketing/</guid>
+      <link>https://petra66orii.github.io/undercoverunicorn/tags/marketing/</link>
+      <pubDate>Fri, 28 Feb 2025 16:33:00 +0000</pubDate>
+      <guid>https://petra66orii.github.io/undercoverunicorn/tags/marketing/</guid>
       <description></description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/undercoverunicorn/tags/projects/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/undercoverunicorn/tags/projects/</guid>
+      <link>https://petra66orii.github.io/undercoverunicorn/tags/projects/</link>
+      <pubDate>Fri, 28 Feb 2025 16:33:00 +0000</pubDate>
+      <guid>https://petra66orii.github.io/undercoverunicorn/tags/projects/</guid>
       <description></description>
     </item>
     <item>
       <title>SEO</title>
-      <link>http://localhost:1313/undercoverunicorn/tags/seo/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/undercoverunicorn/tags/seo/</guid>
+      <link>https://petra66orii.github.io/undercoverunicorn/tags/seo/</link>
+      <pubDate>Fri, 28 Feb 2025 16:33:00 +0000</pubDate>
+      <guid>https://petra66orii.github.io/undercoverunicorn/tags/seo/</guid>
       <description></description>
     </item>
     <item>
-      <title>Software Development</title>
-      <link>http://localhost:1313/undercoverunicorn/tags/software-development/</link>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/undercoverunicorn/tags/software-development/</guid>
+      <title>Development</title>
+      <link>https://petra66orii.github.io/undercoverunicorn/tags/development/</link>
+      <pubDate>Thu, 20 Feb 2025 19:07:00 +0000</pubDate>
+      <guid>https://petra66orii.github.io/undercoverunicorn/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>https://petra66orii.github.io/undercoverunicorn/tags/software/</link>
+      <pubDate>Thu, 20 Feb 2025 19:07:00 +0000</pubDate>
+      <guid>https://petra66orii.github.io/undercoverunicorn/tags/software/</guid>
       <description></description>
     </item>
   </channel>

@@ -9,7 +9,8 @@ tags:
   - SEO
   - e-commerce
   - marketing
-categories: Marketing
+categories: 
+  - Marketing
 ---
 
 # SEO Implementation Basics

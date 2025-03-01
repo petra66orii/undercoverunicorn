@@ -1,6 +1,6 @@
 ---
 title: Content Matters
-date: 2025-02-28T16:33Z
+date: 2025-02-28T16:33:00Z
 draft: false
 tags:
   - blog
@@ -9,7 +9,8 @@ tags:
   - marketing
   - projects
   - SEO
-categories: Marketing
+categories: 
+  - Marketing
 ---
 
 # Content Matters

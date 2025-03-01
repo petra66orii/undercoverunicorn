@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Classic</title>
-    <link>http://localhost:1313/undercoverunicorn/</link>
-    <description>Recent content in Home on Classic</description>
+    <title>Home on Undercover Unicorn</title>
+    <link>https://petra66orii.github.io/undercoverunicorn/</link>
+    <description>Recent content in Home on Undercover Unicorn</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/undercoverunicorn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Feb 2025 16:33:00 +0000</lastBuildDate>
+    <atom:link href="https://petra66orii.github.io/undercoverunicorn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Content Matters</title>
-      <link>http://localhost:1313/undercoverunicorn/posts/content-matters/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/undercoverunicorn/posts/content-matters/</guid>
+      <link>https://petra66orii.github.io/undercoverunicorn/posts/content-matters/</link>
+      <pubDate>Fri, 28 Feb 2025 16:33:00 +0000</pubDate>
+      <guid>https://petra66orii.github.io/undercoverunicorn/posts/content-matters/</guid>
       <description>&lt;h1 id=&#34;content-matters&#34;&gt;Content Matters&lt;/h1&gt;&#xA;&lt;p&gt;When it comes to SEO, keywords aren&amp;rsquo;t everything. The content of the website is crucial for the search engine to determine whether it will rank high or not.&lt;/p&gt;&#xA;&lt;h2 id=&#34;content-is-king&#34;&gt;Content is King&lt;/h2&gt;&#xA;&lt;p&gt;The more useful, well informed and trustworthy your web page content is, the higher it will rank in search engines. Great content is what helps your rankings most. Keywords will help users find you, but the content of your web pages is what will keep them on your site once they get there. &lt;/p&gt;</description>
     </item>
     <item>
       <title>SEO Implementation Basics</title>
-      <link>http://localhost:1313/undercoverunicorn/posts/seo-implementation-basics/</link>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/undercoverunicorn/posts/seo-implementation-basics/</guid>
+      <link>https://petra66orii.github.io/undercoverunicorn/posts/seo-implementation-basics/</link>
+      <pubDate>Thu, 20 Feb 2025 19:07:00 +0000</pubDate>
+      <guid>https://petra66orii.github.io/undercoverunicorn/posts/seo-implementation-basics/</guid>
       <description>&lt;h1 id=&#34;seo-implementation-basics&#34;&gt;SEO Implementation Basics&lt;/h1&gt;&#xA;&lt;p&gt;SEO is short for Search Engine Optimization. In this article I will lay out the basics of SEO, giving you the tools necessary to boost up your website/blog in the Google Search engine. Usually businesses and entrepreneurs hire someone to do SEO research for them, but maybe you don&amp;rsquo;t have the money necessary to hire someone or you just want to learn SEO and don&amp;rsquo;t know where to start. If you find yourself in one of these situations, then this article is for you.&lt;/p&gt;</description>
     </item>
   </channel>

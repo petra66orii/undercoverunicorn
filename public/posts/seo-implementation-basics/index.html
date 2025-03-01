@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head><script src="/undercoverunicorn/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=undercoverunicorn/livereload" data-no-instant defer></script>
+  <head>
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/undercoverunicorn/images/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/undercoverunicorn/images/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/undercoverunicorn/images/favicon-16x16.png">
-    <link rel="manifest" href="/undercoverunicorn/images/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../../images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../images/favicon-16x16.png">
+    <link rel="manifest" href="../../images/site.webmanifest">
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="A simple, minimal blog for those who love text.">
-    <title>SEO Implementation Basics | Classic</title>
-    <link rel="stylesheet" href="/undercoverunicorn/css/style.css" />
-    <link rel="stylesheet" href="/undercoverunicorn/css/fonts.css" />
-    <link rel="stylesheet" href="/undercoverunicorn/css/theme-override.css">
+    <title>SEO Implementation Basics | Undercover Unicorn</title>
+    <link rel="stylesheet" href="../../css/style.css" />
+    <link rel="stylesheet" href="../../css/fonts.css" />
+    <link rel="stylesheet" href="https://petra66orii.github.io/undercoverunicorn/css/style.css"><link rel="stylesheet" href="https://petra66orii.github.io/undercoverunicorn/css/fonts.css"><link rel="stylesheet" href="https://petra66orii.github.io/undercoverunicorn/css/theme-override.css">
     
   </head>
 
@@ -24,25 +24,30 @@
           
           
           <li class="pull-left ">
-            <a href="http://localhost:1313/undercoverunicorn/">~/classic</a>
+            <a href="https://petra66orii.github.io/undercoverunicorn/">~/undercover unicorn</a>
           </li>
           
           
           <li class="pull-left ">
-            <a href="/undercoverunicorn/categories/">~/categories</a>
+            <a href="../../undercoverunicorn/categories/">~/categories</a>
           </li>
           
           
           <li class="pull-left ">
-            <a href="/undercoverunicorn/tags/">~/tags</a>
+            <a href="../../undercoverunicorn/undercoverunicorn/">~/home</a>
+          </li>
+          
+          
+          <li class="pull-left ">
+            <a href="../../undercoverunicorn/tags/">~/tags</a>
+          </li>
+          
+          
+          <li class="pull-left ">
+            <a href="../../undercoverunicorn/about/">~/about</a>
           </li>
           
 
-          
-          
-          <li class="pull-right">
-            <a href="/undercoverunicorn/index.xml">~/subscribe</a>
-          </li>
           
 
         </ul>
@@ -57,9 +62,11 @@
 <p class="terms">
   
   
+  Categories: <a href="../../categories/marketing">Marketing</a> 
   
   
-  Tags: <a href="/tags/coding">coding</a> <a href="/tags/software-development">software development</a> <a href="/tags/seo">SEO</a> <a href="/tags/e-commerce">e-commerce</a> <a href="/tags/marketing">marketing</a> 
+  
+  Tags: <a href="../../tags/coding">coding</a> <a href="../../tags/software">software</a> <a href="../../tags/development">development</a> <a href="../../tags/seo">SEO</a> <a href="../../tags/e-commerce">e-commerce</a> <a href="../../tags/marketing">marketing</a> 
   
   
 </p>
@@ -230,15 +237,15 @@ All of these kinds of links show search engines that your page is good quality. 
 <h3 id="sitemapxml-file"><code>sitemap.xml</code> File</h3>
 <p>An xml sitemap is a file that lists a website’s important page URLs, making sure that search engines can crawl, or navigate through them. It also helps search engines understand your website structure. A sitemap file ensures search engines will crawl every essential page on your website. This is especially useful if there are pages of your site that don’t have any internal links pointing to them.
 So a sitemap can help speed up content discovery for search engines when they crawl and index your web applications. <a href="https://www.xml-sitemaps.com/">XML Sitemaps</a> is where you go to generate a sitemap file. Depending on how large your site is, this can take several minutes.</p>
-<p>!<img src="/images/sitemap-website.png" alt="Image Description"></p>
+<img src="\undercoverunicorn\images\sitemap-website.png" alt="Sitemap website screenshot">
 <p>Once you&rsquo;ve generated the file, you can download it to your PC. You can then drag and drop this file into your project workspace. It also needs to live in the root folder. Make sure this file is named <code>sitemap.xml</code>.</p>
-<p>!<img src="/images/sitemap-xml-file.png" alt="Image Description"></p>
+<img src="\undercoverunicorn\images\sitemap-xml-file.png" alt="sitemap.xml file">
 <blockquote>
-<p>[!info] VS Code Theme
+<p>VS Code Theme
 If you&rsquo;re wondering what theme am I using, it&rsquo;s Dracula Midnight. Light mode wrecks my head!</p></blockquote>
 <h3 id="robotstxt-file"><code>robots.txt</code> File</h3>
 <p>The <code>robots.txt</code> file is a simple text file that tells search engines where they are not allowed to go on a website. It lists out any folders or files that will not be crawled or indexed by search engine spiders. Having a <code>robots.txt</code> file shows that you acknowledge that search engines are allowed on your site and that they may have free access to it. For this reason, search engines take the existence of this file in your projects as a sign of quality, and it improves your SEO ranking as a result.</p>
-<p>!<img src="/images/robots-file.png" alt="Image Description"></p>
+<img src="\undercoverunicorn\images\robots-file.png" alt="robots.txt file">
 <p><em>User-agent</em> is another word for robots or search engine spiders. The asterisk denotes that this line applies to all of the spiders. This is a basic <code>robots.txt</code> file. If you want to block the spiders from certain areas of your site, your <code>robots.txt</code> might look something like this:</p>
 <ul>
 <li>The above line tells the robots that they&rsquo;re not  allowed to access anything in the <code>accounts</code> URLs.  </li>
@@ -250,7 +257,6 @@ If you&rsquo;re wondering what theme am I using, it&rsquo;s Dracula Midnight. Li
 <p>The final steps for working with a sitemap and robots files can only be implemented for  web applications that have a DNS certificate. Creating a DNS certificate is part of the process of deploying a web application to a custom domain. The steps involved in registering and wiring up a custom domain require you to have a credit card and to make  payments.</p>
 <p>A sitemap should be registered with Google. You can do this in the Google Search console. And you can also test your robots.txt file for errors.</p>
 <blockquote>
-<p>[!Important]</p>
 <h4 id="tips">Tips</h4>
 <ul>
 <li>Research other sites that already meet the needs your users have, find examples of how they accomplish that.</li>
@@ -261,13 +267,13 @@ If you&rsquo;re wondering what theme am I using, it&rsquo;s Dracula Midnight. Li
 <p><em>Be kind to yourself. Keep achieving!</em></p>
 <h2 id="references">References</h2>
 <h3 id="external-links">External Links</h3>
-<p><a href="https://www.xml-sitemaps.com/">XML Sitemaps</a><br>
+<p><a href="https://www.xml-sitemaps.com/">XML Sitemaps</a>
 <a href="https://developers.google.com/search/docs/advanced/sitemaps/build-sitemap">Creating and submitting a sitemap</a><br>
 <a href="https://support.google.com/webmasters/answer/7451001">Managing your sitemaps and using sitemaps reports</a><br>
 <a href="https://search.google.com/search-console/">Google search console</a><br>
 <a href="https://support.google.com/webmasters/answer/6062598?hl=en">Testing your robots.txt file</a></p>
 
-    <a href="/undercoverunicorn"> >> Home</a>
+    <a href="../../"> >> Home</a>
   </main>
 </div>
     <footer>
@@ -300,7 +306,7 @@ If you&rsquo;re wondering what theme am I using, it&rsquo;s Dracula Midnight. Li
 
       
       <hr/>
-      Open-Source | <a href="https://github.com/goodroot/hugo-classic">Github</a> | <a href="https://keybase.io/goodroot">Keybase</a>
+      <a href="https://github.com/petra66orii">Github</a> | <a href="https://www.linkedin.com/in/petra-bot-a552601a4/">LinkedIn</a>
       
     </footer>
   </body>

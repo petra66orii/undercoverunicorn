@@ -2,42 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/undercoverunicorn/tags/blog/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <loc>https://petra66orii.github.io/undercoverunicorn/tags/blog/</loc>
+    <lastmod>2025-02-28T16:33:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/undercoverunicorn/tags/coding/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <loc>https://petra66orii.github.io/undercoverunicorn/categories/</loc>
+    <lastmod>2025-02-28T16:33:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/undercoverunicorn/posts/content-matters/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <loc>https://petra66orii.github.io/undercoverunicorn/tags/coding/</loc>
+    <lastmod>2025-02-28T16:33:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/undercoverunicorn/tags/e-commerce/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <loc>https://petra66orii.github.io/undercoverunicorn/posts/content-matters/</loc>
+    <lastmod>2025-02-28T16:33:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/undercoverunicorn/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <loc>https://petra66orii.github.io/undercoverunicorn/tags/e-commerce/</loc>
+    <lastmod>2025-02-28T16:33:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/undercoverunicorn/posts/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <loc>https://petra66orii.github.io/undercoverunicorn/</loc>
+    <lastmod>2025-02-28T16:33:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/undercoverunicorn/tags/marketing/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <loc>https://petra66orii.github.io/undercoverunicorn/categories/marketing/</loc>
+    <lastmod>2025-02-28T16:33:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/undercoverunicorn/tags/projects/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <loc>https://petra66orii.github.io/undercoverunicorn/tags/marketing/</loc>
+    <lastmod>2025-02-28T16:33:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/undercoverunicorn/tags/seo/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <loc>https://petra66orii.github.io/undercoverunicorn/posts/</loc>
+    <lastmod>2025-02-28T16:33:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/undercoverunicorn/tags/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <loc>https://petra66orii.github.io/undercoverunicorn/tags/projects/</loc>
+    <lastmod>2025-02-28T16:33:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/undercoverunicorn/posts/seo-implementation-basics/</loc>
-    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+    <loc>https://petra66orii.github.io/undercoverunicorn/tags/seo/</loc>
+    <lastmod>2025-02-28T16:33:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/undercoverunicorn/tags/software-development/</loc>
-    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+    <loc>https://petra66orii.github.io/undercoverunicorn/tags/</loc>
+    <lastmod>2025-02-28T16:33:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/undercoverunicorn/categories/</loc>
+    <loc>https://petra66orii.github.io/undercoverunicorn/tags/development/</loc>
+    <lastmod>2025-02-20T19:07:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petra66orii.github.io/undercoverunicorn/posts/seo-implementation-basics/</loc>
+    <lastmod>2025-02-20T19:07:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petra66orii.github.io/undercoverunicorn/tags/software/</loc>
+    <lastmod>2025-02-20T19:07:00+00:00</lastmod>
   </url>
 </urlset>
