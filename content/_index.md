@@ -4,7 +4,7 @@ description: "The personal writings and expressions of Grayfox, otherwise known 
 ---
 <img
   id="foxy"
-  src="/images/grayf0x.jpg"
+  src="/undercoverunicorn/images/grayf0x.jpg"
   alt="A foxy face">
 
 ## Welcome, friend
@@ -15,7 +15,7 @@ Born in [The Abyss](https://en.wikipedia.org/wiki/Edmonton), **Grayfox** - also 
 
 Their greatest joys are darkness and its quietudes.
 
-<img src="/images/partywizard.gif">
+<img src="/undercoverunicorn/images/partywizard.gif">
 
 ---
 
