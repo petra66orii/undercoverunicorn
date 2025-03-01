@@ -161,7 +161,7 @@ pre {
 pre code { background: none; }
 
 code {
-  background-color: light-dark(#D6D6D6, #888);
+  background-color: light-dark(#9b83bb, #888);
   border-radius: 3px;
   padding: 0.2em;
   overflow-x: auto;
