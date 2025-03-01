@@ -1,5 +1,4 @@
 baseurl = "https://petra66orii.github.io/undercoverunicorn/"
-relativeURLs = true
 enableEmoji = true
 theme = "hugo-classic"
 title = "Undercover Unicorn"
