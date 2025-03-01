@@ -1,6 +1,6 @@
 ---
 title: Content Matters
-date: 2025-02-28T 16:33Z
+date: 2025-02-28T16:33Z
 draft: false
 tags:
   - blog
