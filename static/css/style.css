@@ -161,7 +161,7 @@ pre {
 pre code { background: none; }
 
 code {
-  background-color: light-dark(#D6D6D6, #888);
+  background-color: light-dark(#c474d4, #888);
   border-radius: 3px;
   padding: 0.2em;
   overflow-x: auto;
@@ -200,6 +200,7 @@ blockquote {
   padding: 0px 12px 0px 12px;
 }
 #foxy {
+  margin-top: 35px;
   min-width: 40px;
   float: right;
   padding: 10px;
