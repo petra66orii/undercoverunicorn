@@ -1,6 +1,7 @@
 ---
 title: Content Matters
-date: 2025-02-28T16:33:00Z
+description: Article about SEO practices and ensuring the content is high quality and useful to users.
+date: 2025-02-28T16:33Z
 draft: false
 tags:
   - blog
@@ -9,7 +10,7 @@ tags:
   - marketing
   - projects
   - SEO
-categories: 
+categories:
   - Marketing
 ---
 
@@ -83,6 +84,7 @@ Researching isn't always the most interesting thing you could be doing (I should
 *Be kind to yourself. Keep achieving!*
 ## References
 
+[[SEO Implementation Basics]]
 ### External Links
 
 [Rater Guidelines](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf)
