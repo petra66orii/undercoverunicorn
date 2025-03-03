@@ -1,0 +1,4 @@
+<a href="{{ .Destination | relURL }}" target="_blank">
+    <img src="{{ .Destination | relURL }}" alt="{{ .Text }}" {{ with .Title }} title="{{ . }}" {{ end }} />
+  </a>
+  

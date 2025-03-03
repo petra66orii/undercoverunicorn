@@ -15,7 +15,7 @@
 
     header {
       background: #393E41;
-      border-bottom: 2px dotted #EBC3DB;
+      border-bottom: 2px solid #EBC3DB;
 
     }
 
@@ -99,7 +99,6 @@ output:
   text-decoration: none;
   padding: 5px;
   border-radius: 5px;
-  border-style: dotted;
   border-width: 1px;
   margin: 20px 0px 20px 0px;
 }
@@ -130,6 +129,7 @@ header {
     width: 100%;
     height: 1.75rem;
     font-size: 1rem;
+    padding: 5px 0 5px 5px;
 }
 
 header ul,
@@ -161,7 +161,7 @@ pre {
 pre code { background: none; }
 
 code {
-  background-color: light-dark(#c474d4, #888);
+  background-color: light-dark(#7c5399, #888);
   border-radius: 3px;
   padding: 0.2em;
   overflow-x: auto;
@@ -199,22 +199,26 @@ blockquote {
 .content-wrapper {
   padding: 0px 12px 0px 12px;
 }
-#foxy {
-  margin-top: 35px;
-  min-width: 40px;
+
+#kitty {
+  margin-top: 60px;
+  width: 30%;
   float: right;
   padding: 10px;
   display: block;
 }
 
+#unicorn-cat {
+  width: 30%;
+}
 
 #table-of-contents {
 }
 
 /* Small devices, phones */
 @media only screen and (min-width : 480px) {
-  #foxy {
-    min-width: 40px;
+  #kitty {
+    width: 30%;
     float: center;
     padding: 10px 10px 10px 20px;
     display: block;

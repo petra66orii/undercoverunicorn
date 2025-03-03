@@ -52,4 +52,4 @@ post = "/post/:year/:month/:day/:slug/"
 custom_css = ["css/style.css", "css/fonts.css", "css/theme-override.css"]
 staticDir = ["static"]
 description = "A simple, minimal blog for those who love text."
-footer = "{Year} - [Github](https://github.com/petra66orii) | [LinkedIn](https://www.linkedin.com/in/petra-bot-a552601a4/)"
+footer = "2025 - [Github](https://github.com/petra66orii) | [LinkedIn](https://www.linkedin.com/in/petra-bot-a552601a4/)"

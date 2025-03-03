@@ -1,15 +1,15 @@
 ---
 title: Home
-description: "A little special place where unicorns roam freely."
+description: "The home of the undercover unicorn. Find a list of helpful articles related to coding tips, marketing strategies and the meaning of life."
 ---
 <img
-  id="foxy"
-  src="/undercoverunicorn/images/grayf0x.jpg"
-  alt="A foxy face">
+  id="kitty"
+  src="/undercoverunicorn/images/galaxy-cat.jpg"
+  alt="Cat looking towards the universe">
 
-## Welcome, friend
+## Welcome, brave soul
 
-### :purple_heart: :earth_africa: :purple_heart:
+### :hibiscus: :unicorn: :hibiscus:
 
 Welcome to my little corner of the Internet! You'll find articles regarding software development, web marketing, the meaning of Life (that escalated quickly) and much more! I love writing about whatever goes through my head. 
 
@@ -17,8 +17,8 @@ Also an aspiring software developer, determined to become one of the best ones o
 
 Hope you have a lovely time learning new things :purple_heart:
 
-<img src="/undercoverunicorn/images/partywizard.gif">
+<img id="unicorn-cat" src="/undercoverunicorn/images/cat-unicorn.gif" alt="Unicorn and a cat running">
 
 ---
 
-## Musings
+## Goodies
