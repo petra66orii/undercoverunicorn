@@ -26,7 +26,7 @@ If you have a project in mind, look up the keywords in Google Search to see if t
 
 Also, there are multiple websites that will check how high these words are ranking. For example, [Word Tracker](https://wordtracker.com) allows you to use a limited version of their site, where you get 12 free searches. 
 
-> [!tip]
+> Tip!
 > You can get 12 more by accessing their site in incognito mode.  
 
 Keyword research can uncover queries to target, the popularity of these queries, their ranking difficulty, and so on.
@@ -123,21 +123,21 @@ You shouldn’t just fill these elements with your chosen keywords with no logic
 An xml sitemap is a file that lists a website’s important page URLs, making sure that search engines can crawl, or navigate through them. It also helps search engines understand your website structure. A sitemap file ensures search engines will crawl every essential page on your website. This is especially useful if there are pages of your site that don’t have any internal links pointing to them.
 So a sitemap can help speed up content discovery for search engines when they crawl and index your web applications. [XML Sitemaps](https://www.xml-sitemaps.com/) is where you go to generate a sitemap file. Depending on how large your site is, this can take several minutes.
 
-!<img src=undercoverunicorn/images/sitemap-website.png, alt='image-post'>
+<img src="\undercoverunicorn\images\sitemap-website.png" alt="Sitemap website screenshot">
 
 Once you've generated the file, you can download it to your PC. You can then drag and drop this file into your project workspace. It also needs to live in the root folder. Make sure this file is named `sitemap.xml`.
 
-!<img src=undercoverunicorn/images/sitemap-xml-file.png, alt='image-post'>
+<img src="\undercoverunicorn\images\sitemap-xml-file.png" alt="sitemap.xml file">
 
 
-> [!info] VS Code Theme
+> VS Code Theme
 > If you're wondering what theme am I using, it's Dracula Midnight. Light mode wrecks my head!
 
 ### `robots.txt` File
 
 The `robots.txt` file is a simple text file that tells search engines where they are not allowed to go on a website. It lists out any folders or files that will not be crawled or indexed by search engine spiders. Having a `robots.txt` file shows that you acknowledge that search engines are allowed on your site and that they may have free access to it. For this reason, search engines take the existence of this file in your projects as a sign of quality, and it improves your SEO ranking as a result.
 
-!<img src=undercoverunicorn/images/robots-file.png, alt='image-post'>
+<img src="\undercoverunicorn\images\robots-file.png" alt="robots.txt file">
 
 *User-agent* is another word for robots or search engine spiders. The asterisk denotes that this line applies to all of the spiders. This is a basic `robots.txt` file. If you want to block the spiders from certain areas of your site, your `robots.txt` might look something like this:
 * The above line tells the robots that they're not  allowed to access anything in the `accounts` URLs.  
@@ -153,7 +153,6 @@ The final steps for working with a sitemap and robots files can only be impleme
 A sitemap should be registered with Google. You can do this in the Google Search console. And you can also test your robots.txt file for errors.
 
 
-> [!Important]
 > #### Tips
 > 
 > - Research other sites that already meet the needs your users have, find examples of how they accomplish that.
@@ -169,7 +168,7 @@ With that said, good luck researching your keywords, hope this article helped! F
 
 ### External Links
 
-[XML Sitemaps](https://www.xml-sitemaps.com/)
+[XML Sitemaps](https://www.xml-sitemaps.com/)<br>
 [Creating and submitting a sitemap](https://developers.google.com/search/docs/advanced/sitemaps/build-sitemap)  
 [Managing your sitemaps and using sitemaps reports](https://support.google.com/webmasters/answer/7451001)  
 [Google search console](https://search.google.com/search-console/)  
