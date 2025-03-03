@@ -1,7 +1,7 @@
 ---
 title: Content Matters
 description: Article about SEO practices and ensuring the content is high quality and useful to users.
-date: 2025-02-28T16:33Z
+date: 2025-02-28T16:33:00Z
 draft: false
 tags:
   - blog
