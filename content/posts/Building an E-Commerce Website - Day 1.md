@@ -15,8 +15,6 @@ categories:
 ---
 
 
-# Building an E-Commerce Website - Day 1
-
 ## My Coding Project Series
 
 This post is the first of many where I will be writing about building an e-commerce website from start to finish. I will write about how to start a project in VS Code (you can use whatever IDE you desire, I prefer VS Code), connect it to GitHub, install all the packages required, and more! 

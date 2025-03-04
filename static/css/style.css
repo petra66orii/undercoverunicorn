@@ -68,7 +68,7 @@
 
 
 body {
-  max-width: 800px;
+  max-width: 1000px;
   margin: auto;
   padding: .2em;
   line-height: 1.5em;
@@ -78,19 +78,17 @@ h1 {
   line-height: 1.5em;
 }
 
-/* Table of Contents, if wanted
 
-Add to yaml:
+#table-of-contents {
+    border-bottom: 1px solid #b688e2;
+    margin: 5px;
+}
 
-output:
-  blogdown::html_page:
-    toc: true
-
-    */
-
-#TableOfContents, #TOC {
-  border: 1px solid #eee;
-  border-radius: 5px;
+summary {
+  font-size: 150%;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 5px;
 }
 
 /* Header and Footer */
@@ -178,7 +176,7 @@ img, iframe, video {
 
 main {
   hyphens: auto;
-  max-width: 650px;
+  max-width: 800px;
   margin-left: auto;
   margin-right: auto;
   line-height: 1.7em;
@@ -212,9 +210,6 @@ blockquote {
   width: 30%;
 }
 
-#table-of-contents {
-}
-
 /* Small devices, phones */
 @media only screen and (min-width : 480px) {
   #kitty {
@@ -226,19 +221,4 @@ blockquote {
 
 }
 
-/* 在大屏幕上应用特定样式 */
-@media screen and (min-width: 768px) {
-    #table-of-contents {
-        position: fixed; /* 固定定位，使其悬浮在页面上 */
-        top: 50%; /* 上边距为50% */
-        right: 15px; /* 右边距为0，将其放在右侧 */
-        transform: translateY(-50%); /* 使用transform来垂直居中 */
-        background-color: #f0f0f0; /* 设置背景颜色 */
-        padding: 10px; /* 添加一些内边距以增加可读性 */
-        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); /* 添加阴影效果 */
-        width: 250px; /* 设置宽度 */
-        max-height: 70vh; /* 设置最大高度为视口的70% */
-        overflow-y: auto; /* 添加垂直滚动条 */
-    }
-}
 

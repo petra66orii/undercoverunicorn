@@ -16,6 +16,11 @@ unsafe = true
     [markup.goldmark.parser]
       wrapStandAloneImageWithinParagraph = false
 
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+
 [markup.highlight]
 anchorLineNos = false
 codeFences = true
@@ -46,6 +51,10 @@ post = "/post/:year/:month/:day/:slug/"
     name = "Tags"
     url = "/tags/"
     weight = 3
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
 
 [params]

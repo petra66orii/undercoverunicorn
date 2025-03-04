@@ -14,7 +14,6 @@ categories:
   - Marketing
 ---
 
-# Content Matters
 
 When it comes to SEO, keywords aren't everything. The content of the website is crucial for the search engine to determine whether it will rank high or not.
 

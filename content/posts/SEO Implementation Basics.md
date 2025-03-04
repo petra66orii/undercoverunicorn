@@ -14,8 +14,6 @@ categories:
   - Marketing
 ---
 
-# SEO Implementation Basics
-
 SEO is short for Search Engine Optimization. In this article I will lay out the basics of SEO, giving you the tools necessary to boost up your website/blog in the Google Search engine. Usually businesses and entrepreneurs hire someone to do SEO research for them, but maybe you don't have the money necessary to hire someone or you just want to learn SEO and don't know where to start. If you find yourself in one of these situations, then this article is for you.
 ## Keyword Research
 

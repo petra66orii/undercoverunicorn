@@ -9,7 +9,7 @@
       <p class="terms">
         <strong>{{ $i | title }}:</strong>  
         {{ range $k := . }}
-          <a href="{{ relURL (print "/" $i "/" $k | urlize) }}">{{$k}}</a>  
+        <a href='{{ "/undercoverunicorn/" | relURL }}{{ $i }}/{{ $k | urlize }}/'>{{ $k }}</a>
         {{ end }}
       </p>
     {{ end }}
@@ -18,8 +18,14 @@
 
 </p>
 </div>
+
 <div class="content-wrapper">
   <main>
+    <details>
+      <summary>Table of Contents</summary>
+      {{ .TableOfContents }}
+    </details>    
+    <hr id="table-of-contents">
     {{ .Content }}
     <a href="/undercoverunicorn"> >> Home</a>
   </main>
