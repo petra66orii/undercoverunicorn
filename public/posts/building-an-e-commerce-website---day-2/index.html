@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/images/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/images/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/images/favicon-16x16.png"
+    />
+    <link rel="manifest" href="/images/site.webmanifest" />
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Blog post series about building and setting up an e-commerce website using Django, Bootstrap and other coding technologies"
+    />
+    <title>Building an E-Commerce Website - Day 2 | Undercover Unicorn</title>
+    <link rel="stylesheet" href="/css/style.css" /> <link
+    rel="stylesheet" href="/css/fonts.css" /> <link rel="stylesheet" href="https://petra66orii.github.io/undercoverunicorn/css/style.css" /><link rel="stylesheet" href="https://petra66orii.github.io/undercoverunicorn/css/fonts.css" /><link rel="stylesheet" href="https://petra66orii.github.io/undercoverunicorn/css/theme-override.css" /> 
+  </head>
+
+  <body>
+    <header>
+      <nav>
+        <ul>
+           
+          <li class="pull-left ">
+            <a href="https://petra66orii.github.io/undercoverunicorn/">Home</a>
+          </li>
+           
+          <li
+            class="pull-left "
+          >
+            <a href="/undercoverunicorn/categories/">Categories</a>
+          </li>
+           
+          <li
+            class="pull-left "
+          >
+            <a href="/undercoverunicorn/tags/">Tags</a>
+          </li>
+           
+        </ul>
+      </nav>
+    </header>
+  </body>
+</html>
+
+<div class="article-meta">
+  <h1><span class="title">Building an E-Commerce Website - Day 2</span></h1>
+  
+  <h4 class="date">2025/03/04</h4>
+
+  
+    
+      <p class="terms">
+        <strong>Categories:</strong>  
+        
+        <a href='/undercoverunicorn/categories/e-commerce-website-series/'>E-Commerce Website Series</a>
+        
+      </p>
+    
+  
+    
+      <p class="terms">
+        <strong>Tags:</strong>  
+        
+        <a href='/undercoverunicorn/tags/blog/'>blog</a>
+        
+        <a href='/undercoverunicorn/tags/coding/'>coding</a>
+        
+        <a href='/undercoverunicorn/tags/e-commerce/'>e-commerce</a>
+        
+        <a href='/undercoverunicorn/tags/projects/'>projects</a>
+        
+        <a href='/undercoverunicorn/tags/software/'>software</a>
+        
+        <a href='/undercoverunicorn/tags/development/'>development</a>
+        
+      </p>
+    
+  
+</div>
+
+</p>
+</div>
+
+<div class="content-wrapper">
+  <main>
+    <details>
+      <summary>Table of Contents</summary>
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#outlining-the-battle-plan">Outlining the Battle Plan</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#designing-before-applying">Designing Before Applying</a>
+      <ul>
+        <li><a href="#wireframes">Wireframes</a></li>
+        <li><a href="#flow-charts">Flow Charts</a></li>
+        <li><a href="#erd">ERD</a></li>
+        <li><a href="#readme">README</a></li>
+      </ul>
+    </li>
+    <li><a href="#ending-comments">Ending Comments</a></li>
+    <li><a href="#references">References</a></li>
+  </ul>
+</nav>
+    </details>    
+    <hr id="table-of-contents">
+    <h2 id="outlining-the-battle-plan">Outlining the Battle Plan</h2>
+<p>Welcome! So today I&rsquo;ve done my flow chart, my wireframes and an ERD that will serve as my guiding light in this website-building journey. In this post, I&rsquo;ll pick up from my last <a href="Building%20an%20E-Commerce%20Website%20-%20Day%201.md">article</a>, initialize my repo in VS Code, create our own virtual environment and start documenting my plan in the README.md.</p>
+<p>These are part of my course requirements in order to pass this project.</p>
+<pre><code>&quot;Woman, what are you on about? What's a flow chart? What's a wireframe? What are you saying?!&quot;
+</code></pre>
+<p>Fear not! I will explain everything as we go. 🦄</p>
+<h2 id="getting-started">Getting Started</h2>
+<p>These are the steps I took to initialize my project, feel free to follow along!
+<em>Note: Before proceeding, ensure you have an IDE installed (like VS Code), Python, Git and you need to have a GitHub account</em></p>
+<ol>
+<li>Create a repository in GitHub</li>
+<li>Open VS Code - or whatever IDE you prefer</li>
+<li>Create a new folder on your PC - preferably where you store your projects in general</li>
+<li>Back in VS Code, go to <em>File</em> -&gt; <em>Open Folder</em></li>
+<li>Select the folder you&rsquo;ve just created</li>
+<li>Go to your <em>Command Palette</em> and type <em>Create Environment</em></li>
+<li>Select <em>Python: Create Environment</em></li>
+<li>Choose <em>Venv</em> from the dropdown</li>
+<li>Choose your Python version - preferably the more recent, the better</li>
+<li>You&rsquo;ll notice a new folder <em>.venv</em> in your project</li>
+<li>Add the folder to your <em>.gitignore</em> file - if you don&rsquo;t have a <em>.gitignore</em> file, simply create one and add <em>.venv</em> there</li>
+<li>Back in GitHub, in your repo, select the green button <em>Code</em></li>
+<li>Clicking on <em>SSH</em>, copy the git clone command followed by your repo link</li>
+<li>In your IDE terminal, paste the copied command and press <em>Enter</em></li>
+<li>Congrats, you&rsquo;ve connected your GitHub repo to your IDE! Now the fun begins!</li>
+</ol>
+<h2 id="designing-before-applying">Designing Before Applying</h2>
+<p>Well&hellip; I lied. We need a plan before jumping in.</p>
+<p>Creating a website is a ton of work, especially if you&rsquo;re going full stack. That&rsquo;s why it is very important to organize yourself and always plan ahead so you don&rsquo;t get overwhelmed in the process.</p>
+<p>Writing about your plan is probably the best thing you can do for yourself. That way, your brain will focus more on coming with new ideas instead of trying to juggle and remember what you&rsquo;re trying to do. Not to mention that writing about it helps you understand better the whole process! 🦄</p>
+<p>Also, you can make use of very useful diagram and wireframing tools to better visualize your perfect project.</p>
+<h3 id="wireframes">Wireframes</h3>
+<p>One crucial part when it comes to front-end software development is envisioning your layout of the website. Before jumping in and writing code, we need to create sketches to have an idea about how our website is going to look like! This is where wireframes come in. They are like the skeleton of the website; they are a great way to figure out what goes where, what are going to be your core components of the website and the main features of your website.</p>
+<p>There are a lot of software tools like Figma, Balsamiq, LucidChart and many more that enable you to do exactly that. I use Balsamiq because my school has offered us a key that enabled a free trial for a full year.</p>
+<p>From what I know, Balsamiq isn&rsquo;t free. But fortunately, Figma is another great tool for creating wireframes (and from what I&rsquo;ve seen, it&rsquo;s a lot more popular and in demand) that you can use for free! They have paid options as well, but if you&rsquo;re just getting started, I&rsquo;d say Figma is a great option for you.</p>
+<p>These are my wireframes, designed with Balsamiq:</p>
+<img src="/undercoverunicorn/images/home-page.png" alt="home-page.png">
+<img src="/undercoverunicorn/images/product-list.png" alt="product-list.png">
+<img src="/undercoverunicorn/images/product-detail.png" alt="product-detail.png">
+<img src="/undercoverunicorn/images/shopping-bag.png" alt="shopping-bag.png">
+<img src="/undercoverunicorn/images/checkout-page.png" alt="checkout-page.png">
+<img src="/undercoverunicorn/images/user-profile.png" alt="user-profile.png">
+<img src="/undercoverunicorn/images/blog-page.png" alt="blog-page.png">
+<h3 id="flow-charts">Flow Charts</h3>
+<p>According to Canva, <em>&ldquo;A flow chart is a diagram that shows the steps of a workflow or a process. These flow charts are used to recreate the sequence of actions or information needed for training, documenting, planning, and decision-making. They often use symbols, shapes, and arrows to illustrate how one step leads to another.&rdquo;</em></p>
+<p>Flow charts are very useful when you&rsquo;re trying to figure out the logic within your website. What happens when you click a certain button? Should there be a different result if a user is logged in or not? What process are you expecting from a certain page?</p>
+<p>These are questions that can help you figure out how your flow chart works. You can use websites like draw.io, LucidChart or Mermaid.live. I personally used Mermaid.live to draw the flow chart for me; I previously used draw.io which turned out to be very frustrating for me, personally. They&rsquo;re free anyway so give it a go!</p>
+<p>If you&rsquo;re using Mermaid, you don&rsquo;t have to sketch anything. All you have to do is to type into a text editor how the process flow works. I&rsquo;ve attached my flow chart with the syntax written below. If you paste this in the left-hand side of the website, the program will generate a flow chart for you to download. It&rsquo;s so lovely! 🧜‍♀️</p>
+<p>graph TD;</p>
+<p>    A[Start: User lands on site] &ndash;&gt; B[Browse Products]</p>
+<p>    B &ndash;&gt;|Add to Cart?| C[View Cart]</p>
+<p>    B &ndash;&gt;|No| B</p>
+<p>    C &ndash;&gt;|Proceed to Checkout?| D[Login/Register]</p>
+<p>    C &ndash;&gt;|No| C</p>
+<p>    D &ndash;&gt; E[Enter Shipping &amp; Payment Details]</p>
+<p>    E &ndash;&gt; F[Confirm Order]</p>
+<p>    F &ndash;&gt;|Payment Successful?| G[Thank You Page]</p>
+<p>    F &ndash;&gt;|No| H[Retry Payment]</p>
+<p>    H &ndash;&gt; F</p>
+<p>This is the result:
+<img src="/undercoverunicorn/images/flow-chart.png" alt="flow-chart.png"></p>
+<h3 id="erd">ERD</h3>
+<p>When planning a website, another crucial part is <strong>data storage</strong>. You need to store user data, products, blog posts, anything that contains information requires a database. The most popular databases are MySQL, PostgreSQL (the database I use) or ElephantSQL. There are other NoSQL databases available like MongoDB, but I haven&rsquo;t used them as of yet.</p>
+<p>So far I have configured 8 models, the 9th one is built-in with Django so I don&rsquo;t need to create a new one. The models are displayed in the ERD below.</p>
+<p>Entity Relationship Diagram, also known as ERD, is <strong>a structural diagram for use in database design</strong>. An ERD contains all of the database models and connects them thorough foreign keys.</p>
+<p>To provide an example, the model <em>Product</em> contains the field <em>category</em>, which is a foreign key that connects <em>Products</em> to the <em>Category</em> model. Each model contains information about users, products, orders and blog posts.</p>
+<img src="/undercoverunicorn/images/ERD-diagram.png" alt="ERD-diagram.png">
+<h3 id="readme">README</h3>
+<p>In my case, I also have to write a comprehensive README that explains how the website was built, my thought process around this project and basically pitch my project as a business solution. The README document is very important when comes it to any website or package. It contains information on how to install and use software. My README is easily accessed in my <a href="https://github.com/petra66orii/honeypot">Honeypot</a> repo.</p>
+<p>I recommend having a thoroughly documented README. Why?</p>
+<p>Because I said so. 😊</p>
+<p>I&rsquo;m joking!</p>
+<p>You should have one because in case you return to your project after a few months, you probably wouldn&rsquo;t remember much about it. Also it&rsquo;s nice to have in case other people want to build upon your project!</p>
+<h2 id="ending-comments">Ending Comments</h2>
+<p>Having a plan and good documentation is crucial before jumping into coding. It helps organize better and you know what to focus on first, without dividing yourself into 1000 parts.</p>
+<p><em>Be kind to yourself. Keep achieving!</em></p>
+<h2 id="references">References</h2>
+<p>Wireframes</p>
+<ul>
+<li><a href="https://balsamiq.com/">Balsamiq</a></li>
+<li><a href="https://www.figma.com/pricing/#figma">Figma</a></li>
+</ul>
+<p>Flow Charts</p>
+<ul>
+<li><a href="https://www.lucidchart.com/pages">LucidChart</a></li>
+<li><a href="https://app.diagrams.net/">draw.io</a></li>
+<li><a href="https://mermaid.live/">Mermaid</a></li>
+</ul>
+<p>ERD Diagrams</p>
+<ul>
+<li><a href="https://dbdiagram.io">DBDiagram</a></li>
+</ul>
+
+    <div class="links">
+    <a href="/undercoverunicorn"> >> Home</a>
+    <a href="#" class="top pull-right">Back to Top &#8593;</a>
+  </div>
+  </main>
+</div>
+    <footer>
+      
+      
+      <script>
+      (function() {
+        function center_el(tagName) {
+          var tags = document.getElementsByTagName(tagName), i, tag;
+          for (i = 0; i < tags.length; i++) {
+            tag = tags[i];
+            var parent = tag.parentElement;
+            
+            if (parent.childNodes.length === 1) {
+              
+              if (parent.nodeName === 'A') {
+                parent = parent.parentElement;
+                if (parent.childNodes.length != 1) continue;
+              }
+              if (parent.nodeName === 'P') parent.style.textAlign = 'center';
+            }
+          }
+        }
+        var tagNames = ['img', 'embed', 'object'];
+        for (var i = 0; i < tagNames.length; i++) {
+          center_el(tagNames[i]);
+        }
+      })();
+      </script>
+
+      
+      <hr/>
+      2025 - <a href="https://github.com/petra66orii">Github</a> | <a href="https://www.linkedin.com/in/petra-bot-a552601a4/">LinkedIn</a>
+      
+    </footer>
+  </body>
+</html>
+

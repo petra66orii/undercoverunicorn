@@ -10,12 +10,12 @@
     }
 
     a {
-      color: #EBC3DB;
+      color: #d6a0dd;
     }
 
     header {
       background: #393E41;
-      border-bottom: 2px solid #EBC3DB;
+      border-bottom: 2px solid #e69ac7;
 
     }
 
@@ -101,7 +101,7 @@ summary {
   margin: 20px 0px 20px 0px;
 }
 
-.terms { font-size: .9em; }
+.terms { font-size: 1.1em; }
 .menu, .article-meta, footer { text-align: center; }
 .title { font-size: 1.1em; }
 footer a { text-decoration: none; }
@@ -118,7 +118,8 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
+  color: #9e6aa5;
+  transition: 0.5s;
 }
 
 /* Adjust background at your leisure! */
@@ -147,7 +148,8 @@ header a {
 }
 header a:hover,
 header .current a {
-    color: #fff
+    color: #dda1f5;
+    transition: 0.5s;
 }
 
 /* Code Boxes */
@@ -196,6 +198,11 @@ blockquote {
 
 .content-wrapper {
   padding: 0px 12px 0px 12px;
+}
+
+.links {
+  margin-top: 20px;
+  padding: 20px;
 }
 
 #kitty {
